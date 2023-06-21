@@ -65,3 +65,4 @@ Jadi, dengan menggunakan <?= $pager->only(['q'])->links(); ?>, kita menghasilkan
 
 **OUTPUT**
 
+![gambar 1](ss/1.jpg)
